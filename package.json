@@ -1,0 +1,23 @@
+{
+  "name": "starterkit",
+  "version": "1.0.1",
+  "description": "Kit for html+js+css apps",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex12486/starterkit"
+  },
+  "dependencies": {
+    "browser-sync": "^2.2.3",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-minify-css": "^1.0.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^1.3.3",
+    "gulp-uglify": "^1.1.0",
+    "gulp-watch": "^4.1.1",
+    "each-async": "~1.1.1"
+  },
+  "devDependencies": {
+    "gulp-sass": "^2.3.2"
+  }
+}
